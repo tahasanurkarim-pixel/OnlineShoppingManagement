@@ -1,0 +1,9 @@
+101|Mechanical Keyboard|Electronics|3200|10
+102|Wireless Mouse|Electronics|1200|28
+103|Gaming Headset|Accessories|2500|5
+104|USB-C Hub|Electronics|1800|18
+105|Cotton T-Shirt|Fashion|650|28
+106|pen|stationary|10|100
+107|Water|life saver|15|100
+108|Iphone 17 pro mex|mobile|170000|8
+109|iphone 16 pro max|mobile|122222|10
